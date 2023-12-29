@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C++, Java, Python, React, JavaScript, Tailwind, Node Js, MongoDB**
 
-- 📫 How to reach me **arusoni477@gmail.com**
+- 📫 How to reach me **aryansoni268827@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
