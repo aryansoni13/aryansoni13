@@ -12,6 +12,7 @@
 - 💬 Ask me about **C++, Java, Python, React, JavaScript, Tailwind, Node Js, MongoDB**
 
 - 📫 How to reach me **aryansoni26827@gmail.com**
+- <p align="left"> <a href="https://aryansoni-portfolio.netlify.app/">cout<<"Portfolio";</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
