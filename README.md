@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C++, Full Stack Development, ML Development, Oracle Cloud Infrastructure**
 
-- 👨‍💻 All of my projects are available at [github.com/aryansoni13](github.com/aryansoni13)
+- 👨‍💻 All of my projects are available at [https://github.com/aryansoni13](https://github.com/aryansoni13)
 
 - 💬 Ask me about **C++, Java, Python, React, JavaScript, Tailwind, Node Js, MongoDB, ML, OCI**
 
