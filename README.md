@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **aryansoni26827@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/14KKVjjIJXO4n4YM9MqXaZfK6e-MUoo4M/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/14LFMLI6MTh0PLpH8ShPRuurTG0MDoIzQ/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
