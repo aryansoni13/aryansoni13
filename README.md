@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aryansoni13](https://github.com/aryansoni13)
 
-- 💬 Ask me about **C++, Java, Python, React, JavaScript, Tailwind, Node Js, MongoDB, ML, OCI**
+- 💬 Ask me about **C++, Java, Python, React, JavaScript, Tailwind, Node Js, MongoDB, Machine Learning, OCI**
 
 - 📫 How to reach me **aryansoni26827@gmail.com**
 
