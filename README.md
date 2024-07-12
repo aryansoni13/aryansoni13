@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryansoni13" alt="aryansoni13" /></a> </p>
 
-- 🔭 I’m currently working on **Gemini cloning**
+- 🔭 I’m currently working on **Gemini Based AI Model**
 
 - 🌱 I’m currently learning **C++, Full Stack Development, ML Development, Oracle Cloud Infrastructure**
 
