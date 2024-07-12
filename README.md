@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1GUTFwr4CQMzbzH8wCvvDas7q9PRbbWWx/view?usp=drive_link)
 
-- My Portfolio (https://aryans-portfolio.vercel.app)
+- 📑 My Portfolio [Portfolio](https://aryans-portfolio.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
