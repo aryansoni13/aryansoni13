@@ -7,8 +7,7 @@
 #### **<div align="center">A passionate ML developer</div>**  
 <br> 
 
-![](https://visitcount.itsvg.in/api?id=aryansoni13&icon=0&color=0)](https://visitcount.itsvg.in)
-
+![](https://visitcount.itsvg.in/api?id=aryansoni13&icon=0&color=0)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aryansoni13&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
