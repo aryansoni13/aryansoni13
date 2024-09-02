@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryansoni13" alt="aryansoni13" /></a> </p>
 
-<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" align="left" height="" width="575" />  
+<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" align="left" height="" width="575" display="oultine"/>  
   
 
 - 🔭 I’m currently working on Gemini Based AI Model  
