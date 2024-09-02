@@ -13,16 +13,16 @@
 ![Alt text](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)
   
 
-- 🔭 I’m currently working on Gemini Based AI Model  
+- 🔭 I’m currently working on **Gemini Based AI Model**
   
 
-- 🌱 I’m currently learning C++, Full Stack Development, ML Development, Oracle Cloud Infrastructure  
+- 🌱 I’m currently learning **C++, Full Stack Development, ML Development, Oracle Cloud Infrastructure**  
   
 
 - 👨‍💻 All of my projects are available at[ Github](https://github.com/aryansoni13)  
   
 
-- 💬 Ask me about C++, Java, Python, React, JavaScript, Tailwind, Node Js, MongoDB, Machine Learning, OCI  
+- 💬 Ask me about **C++, Java, Python, React, JavaScript, Tailwind, Node Js, MongoDB, Machine Learning, OCI**  
   
 
 - 📫 How to reach me aryansoni26827@gmail.com  
