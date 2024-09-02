@@ -10,14 +10,10 @@
 ![](https://visitcount.itsvg.in/api?id=aryansoni13&icon=0&color=0)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aryansoni13&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryansoni13&label=Profile%20views&color=0e75b6&style=flat" alt="aryansoni13" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryansoni13&show_icons=true&locale=en&layout=compact" alt="aryansoni13" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryansoni13" alt="aryansoni13" /></a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryansoni13&show_icons=true&locale=en" alt="aryansoni13" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryansoni13&" alt="aryansoni13" /></p>
-
-Support 🙏
 
 
 ### ✍️ Random Dev Quote
