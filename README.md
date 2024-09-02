@@ -16,8 +16,6 @@
 
 ---
 
-  
-
 - 🔭 I’m currently working on **Gemini Based AI Model**
   
 
