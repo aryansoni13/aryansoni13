@@ -10,19 +10,31 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryansoni13" alt="aryansoni13" /></a> </p>
 
-- 🔭 I’m currently working on **Gemini Based AI Model**
+<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" align="left" height="" width="575" />  
+  
 
-- 🌱 I’m currently learning **C++, Full Stack Development, ML Development, Oracle Cloud Infrastructure**
+- 🔭 I’m currently working on Gemini Based AI Model  
+  
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/aryansoni13)
+- 🌱 I’m currently learning C++, Full Stack Development, ML Development, Oracle Cloud Infrastructure  
+  
 
-- 💬 Ask me about **C++, Java, Python, React, JavaScript, Tailwind, Node Js, MongoDB, Machine Learning, OCI**
+- 👨‍💻 All of my projects are available at[ Github](https://github.com/aryansoni13)  
+  
 
-- 📫 How to reach me **aryansoni26827@gmail.com**
+- 💬 Ask me about C++, Java, Python, React, JavaScript, Tailwind, Node Js, MongoDB, Machine Learning, OCI  
+  
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1eH-_tMC4jPP6SyalmZ-Ju915yzb1AApB/view?usp=drive_link)
+- 📫 How to reach me aryansoni26827@gmail.com  
+  
 
-- 📑 My Portfolio [Portfolio](https://aryans-portfolio.vercel.app)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1eH-_tMC4jPP6SyalmZ-Ju915yzb1AApB/view?usp=drive_link)  
+  
+
+- 📑 My Portfolio [Portfolio](https://aryans-portfolio.vercel.app/)  
+  
+
+<br/> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
