@@ -138,9 +138,8 @@
 
 <hr/>  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryansoni13&show_icons=true&locale=en&layout=compact" alt="aryansoni13" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryansoni13&show_icons=true&locale=en" alt="aryansoni13" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryansoni13&" alt="aryansoni13" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aryansoni13&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aryansoni13&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryansoni13&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
