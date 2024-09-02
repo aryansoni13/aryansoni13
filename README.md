@@ -11,6 +11,14 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aryansoni13&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryansoni13&show_icons=true&locale=en&layout=compact" alt="aryansoni13" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryansoni13&show_icons=true&locale=en" alt="aryansoni13" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryansoni13&" alt="aryansoni13" /></p>
+
+Support 🙏
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
