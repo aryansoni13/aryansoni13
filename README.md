@@ -8,11 +8,7 @@
 <br> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryansoni13&label=Profile%20views&color=0e75b6&style=flat" alt="aryansoni13" /> </p>
 
-## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aryansoni13&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 - 🔭 I’m currently working on **Gemini Based AI Model**
   
@@ -34,6 +30,9 @@
 
 - 📑 My Portfolio [Portfolio](https://aryans-portfolio.vercel.app/)  
   
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 <br/> 
 
