@@ -41,6 +41,8 @@
 
 <br/> 
 
+[![An image of @aryansoni13's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryansoni13)](https://holopin.io/@aryansoni13)
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/aryansoni13" target="_blank">
