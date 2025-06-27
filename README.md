@@ -25,7 +25,7 @@
 - 📫 How to reach me aryansoni26827@gmail.com  
   
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11r7jxEmprmE6mrhJ2A33OR3Cn_zvXO1p/view?usp=sharing)  
+- 📄 Know about my experiences [Resume](https://github.com/aryansoni13/Aryan_Soni_Resume/blob/main/Aryan_soni_resume.pdf)  
   
 
 - 📑 My Portfolio [Portfolio](https://aryans-portfolio.vercel.app/)  
