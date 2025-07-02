@@ -8,7 +8,7 @@
 <br> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryansoni13&label=Profile%20views&color=0e75b6&style=flat" alt="aryansoni13" /> </p>
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/e6ebed0f301f416dccd5391bb5ecb77f2204d8cbd64a62f2a2098475e1876678/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f39302f37302f33322f39303730333234636466633037633638643630656564306333396537373537332e676966"  />
+<img align="right" height="150" src="https://camo.githubusercontent.com/a35ddbc22cf6995e94645b1cb1a5bc936678241af8b1afdf971cb073fc0bcb83/68747470733a2f2f63646e2e706978616261792e636f6d2f70686f746f2f323032342f30352f31352f32302f35372f646576656c6f7065722d383736343532345f3634302e6a7067"  />
 
 
 - 🔭 I’m currently working on **Gemini Based AI Model**
@@ -31,9 +31,12 @@
 
 - 📑 My Portfolio [Portfolio](https://aryans-portfolio.vercel.app/)
 
+<br> 
+
+
 ![](https://github-profile-trophy.vercel.app/?username=aryansoni13&theme=radical&no-frame=false&no-bg=true&margin-w=4) 
   
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
@@ -97,11 +100,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="30" alt="html5 logo"  />
-</div><br/> 
+</div>
+<br/> 
 
 ###
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me
+<br clear="both">
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aryan-soni-26794924a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aryan-soni-26794924a/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aryan_269269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aryan_269269" height="30" width="40" /></a>
@@ -111,6 +116,8 @@
 <a href="https://twitter.com/aaaryan11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aaaryan11" height="30" width="40" /></a>
 <a href="https://instagram.com/iaryan_soni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iaryan_soni" height="30" width="40" /></a>
 </p>
+
+<br>
 
 
 ## 📊 GitHub Stats:
