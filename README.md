@@ -121,11 +121,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aryansoni13&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryansoni13&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=aryansoni13&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ###
+
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/aryansoni13/aryansoni13/output/snake.svg" alt="Snake animation" />
+
+### 🔝 Top Contributed Repos
+![](https://github-contributor-stats.vercel.app/api?username=aryansoni13&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
