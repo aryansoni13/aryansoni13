@@ -69,6 +69,3 @@
 
 ### 🔝 Top Contributed Repos
 ![](https://github-contributor-stats.vercel.app/api?username=aryansoni13&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-![3D Contribution Calendar](./profile-3d-contrib.svg)
