@@ -108,7 +108,7 @@
 ## Connect with me
 <br clear="both">
 <p align="center">
-<a href="/https://www.linkedin.com/in/aryan-soni-26794924a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aryan-soni-26794924a/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aryan-soni-26794924a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aryan-soni-26794924a/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aryan_269269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aryan_269269" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/aryansoni245032" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aryansoni245032" height="30" width="40" /></a>
   <a href="https://kaggle.com/aryansoni1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aryansoni1" height="30" width="40" /></a>
