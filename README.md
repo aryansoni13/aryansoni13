@@ -71,10 +71,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=aryansoni13&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-<p align="center" >
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/<github_user>/<repository>/output-3d-contrib/night.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<github_user>/<repository>/output-3d-contrib/day.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/<github_user>/<repository>/output-3d-contrib/day.svg" />
-	</picture>
-</p>
+![3D Contribution Calendar](./profile-3d-contrib.svg)
