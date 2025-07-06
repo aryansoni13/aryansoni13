@@ -56,8 +56,6 @@
 </p>
 
 
-,pycharm,py,pytorch,react,sklearn,tailwind,tensorflow,ts,vercel,visualstudio,vite,vscode,yarn
-
 ###
 
 ## Connect with me
