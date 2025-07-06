@@ -8,7 +8,6 @@
 <br> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryansoni13&label=Profile%20views&color=0e75b6&style=flat" alt="aryansoni13" /> </p>
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/a35ddbc22cf6995e94645b1cb1a5bc936678241af8b1afdf971cb073fc0bcb83/68747470733a2f2f63646e2e706978616261792e636f6d2f70686f746f2f323032342f30352f31352f32302f35372f646576656c6f7065722d383736343532345f3634302e6a7067"  />
 
 
 - 🔭 I’m currently working on **Gemini Based AI Model**
