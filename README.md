@@ -28,7 +28,7 @@
 - 📄 Know about my experiences [Resume](https://github.com/aryansoni13/Aryan_Soni_Resume/blob/main/Aryan_Soni_Resume.pdf)  
   
 
-- 📑 My Portfolio [Portfolio](https://aryans-portfolio.vercel.app/)
+- 📑 My Portfolio [Portfolio](https://aryan-soni-portfolio.vercel.app)
 
 <br> 
 
