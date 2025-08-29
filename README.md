@@ -59,7 +59,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=anaconda,aws,bootstrap,c,css " />
     <img src="https://skillicons.dev/icons?i=cpp,express,fastapi,figma,flask " />
-    <img src="https://skillicons.dev/icons?i=gcp,git,github,html,js,latex,latex,md,materialui,mongodb,mysql,nextjs,nodejs,notion,npm,opencv,postman,py,pytorch,pycharm,react,sklearn,tailwind,tensorflow,ts,vercel,visualstudio,vite,vscode,yarn " />
+    <img src="https://skillicons.dev/icons?i=gcp,git,github,html,js,latex,md,materialui,mongodb,mysql,nextjs,nodejs,notion,npm,opencv,postman,py,pytorch,pycharm,react,sklearn,tailwind,tensorflow,ts,vercel,visualstudio,vite,vscode,yarn " />
     
   </a>
 </p>
