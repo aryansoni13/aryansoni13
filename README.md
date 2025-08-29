@@ -1,19 +1,24 @@
+<!-- Name --> 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="left" style="width: 100%" />
 </div>  
-  
 
-# **<div align="center">Hi 👋, I'm Aryan Soni</div>**  
-#### **<div align="center">A passionate Full Stack developer</div>**  
-<br> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryansoni13&label=Profile%20views&color=0e75b6&style=flat" alt="aryansoni13" /> </p>
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Aryan Soni
+<h3 align="left"> Full Stack Developer | ML Enthusiast | Cloud Infrastructure | .NET Developer</h3>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+<!-- About --> 
+<div>
+  <img align="right" width="28%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryansoni13&label=Profile%20views&color=0e75b6&style=flat" alt="aryamsoni13" /> </p>
 
 
 - 🔭 I’m currently working on **Gemini Based AI Model**
   
 
-- 🌱 I’m currently learning **C++, Full Stack Development, ML Development, Oracle Cloud Infrastructure**  
+- 🌱 I’m currently learning **C++, Full Stack Development, ML Development, Oracle Cloud Infrastructure, .NET Development**  
   
 
 - 👨‍💻 All of my projects are available at[ Github](https://github.com/aryansoni13)  
@@ -30,7 +35,9 @@
 
 - 📑 My Portfolio [Portfolio](https://aryan-soni-portfolio.vercel.app)
 
-<br> 
+<br/>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+ 
 
 
 ![](https://github-profile-trophy.vercel.app/?username=aryansoni13&theme=radical&no-frame=false&no-bg=true&margin-w=4) 
@@ -46,6 +53,11 @@
 
 <br/>
 
+
+
+
+
+<!-- Name --> 
 ## 💻 My Skill Set:
 
 
@@ -87,4 +99,9 @@
 
 ### 🔝 Top Contributed Repos
 ![](https://github-contributor-stats.vercel.app/api?username=aryansoni13&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
+
 
