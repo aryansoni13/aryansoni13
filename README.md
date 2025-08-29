@@ -4,7 +4,7 @@
 </div>  
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Aryan Soni
-<h3 align="left"> Full Stack Developer | ML Enthusiast | Cloud Infrastructure | .NET Developer</h3>
+<h3 align="left"> Full Stack Developer | ML Enthusiast | Cloud Infrastructure Engineer | .NET Developer</h3>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <!-- About --> 
