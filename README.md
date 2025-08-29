@@ -57,7 +57,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="right">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,aws,bootstrap,c,css, " />
+    <img src="https://skillicons.dev/icons?i=anaconda,aws,bootstrap,c,css " />
     <img src="https://skillicons.dev/icons?i=cpp,express,fastapi,figma,flask " />
     <img src="https://skillicons.dev/icons?i=gcp,git,github,html,js,latex " />
     <img src="https://skillicons.dev/icons?i=latex,md,materialui,mongodb,mysql " />
