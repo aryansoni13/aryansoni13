@@ -57,11 +57,14 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="right">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,aws,bootstrap,c,css,cpp,express,fastapi " />
-    <img src="https://skillicons.dev/icons?i=figma,flask,gcp,git,github,html,js,latex " />
-    <img src="https://skillicons.dev/icons?i=md,materialui,mongodb,mysql,nextjs,nodejs,notion,npm " />
-    <img src="https://skillicons.dev/icons?i=opencv,postman,py,pytorch,pycharm,react,sklearn,tailwind " />
-    <img src="https://skillicons.dev/icons?i=tensorflow,ts,vercel,visualstudio,vite,vscode,yarn " />
+    <img src="https://skillicons.dev/icons?i=anaconda,aws,bootstrap,c,css, " />
+    <img src="https://skillicons.dev/icons?i=cpp,express,fastapi,figma,flask " />
+    <img src="https://skillicons.dev/icons?i=gcp,git,github,html,js,latex " />
+    <img src="https://skillicons.dev/icons?i=latex,md,materialui,mongodb,mysql " />
+    <img src="https://skillicons.dev/icons?i=nextjs,nodejs,notion,npm,opencv " />
+    <img src="https://skillicons.dev/icons?i=postman,py,pytorch,pycharm,react " />
+    <img src="https://skillicons.dev/icons?i=sklearn,tailwind,tensorflow,ts,vercel " />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vite,vscode,yarn " />
   </a>
 </p>
 
@@ -117,7 +120,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <h3 align="center"><strong>Lᴀɴɢᴜᴀɢᴇ Uꜱᴇᴅ</strong></h3>
       <p align="center">
          <a href="https://github.com/aryansoni13">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryansoni13&&bg_color=0f0f0f&title_color=ff4444&text_color=ff6666&show_owner=true&icon_color=ff3333&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
