@@ -59,12 +59,8 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=anaconda,aws,bootstrap,c,css " />
     <img src="https://skillicons.dev/icons?i=cpp,express,fastapi,figma,flask " />
-    <img src="https://skillicons.dev/icons?i=gcp,git,github,html,js,latex " />
-    <img src="https://skillicons.dev/icons?i=latex,md,materialui,mongodb,mysql " />
-    <img src="https://skillicons.dev/icons?i=nextjs,nodejs,notion,npm,opencv " />
-    <img src="https://skillicons.dev/icons?i=postman,py,pytorch,pycharm,react " />
-    <img src="https://skillicons.dev/icons?i=sklearn,tailwind,tensorflow,ts,vercel " />
-    <img src="https://skillicons.dev/icons?i=visualstudio,vite,vscode,yarn " />
+    <img src="https://skillicons.dev/icons?i=gcp,git,github,html,js,latex,latex,md,materialui,mongodb,mysql,nextjs,nodejs,notion,npm,opencv,postman,py,pytorch,pycharm,react,sklearn,tailwind,tensorflow,ts,vercel,visualstudio,vite,vscode,yarn " />
+    
   </a>
 </p>
 
